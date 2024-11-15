@@ -1,0 +1,86 @@
+{
+  "welcomeBack": "Welcome back,",
+  "@welcomeBack": {
+    "description": "A greeting message to welcome the user back to the app."
+  },
+  "youOwe": "You owe",
+  "@youOwe": {
+    "description": "Indicates the amount of money the user owes to others."
+  },
+  "youReceive": "You receive",
+  "@youReceive": {
+    "description": "Indicates the amount of money the user is owed by others."
+  },
+  "nothingToSeeHere": "Nothing to see here",
+  "@nothingToSeeHere": {
+    "description": "Displayed when there are no tabs to show."
+  },
+  "join": "Join",
+  "@join": {
+    "description": "Button to join an existing tab."
+  },
+  "createTab": "Create tab",
+  "@createTab": {
+    "description": "Button to create a new tab."
+  },
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "Button to sign out of the app."
+  },
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "Button to sign in to the app."
+  },
+  "beforeSplit": "",
+  "@beforeSplit": {
+    "description": "What is shown before 'split the bill', in some languages."
+  },
+  "sloganBadge1": "Split the bill",
+  "@sloganBadge1": {
+    "description": "Verb meaning to divide something into parts."
+  },
+  "sloganWord1": "like",
+  "@sloganWord1": {
+    "description": "In the manner of; similar to."
+  },
+  "sloganWord2": "a",
+  "@sloganWord2": {
+    "description": "Indefinite article."
+  },
+  "sloganWord3": "pro",
+  "@sloganWord3": {
+    "description": "Short for professional, meaning skilled or expert."
+  },
+  "sloganWord4": "and",
+  "@sloganWord4": {
+    "description": "Connecting word used to indicate addition or connection."
+  },
+  "sloganWord5": "become",
+  "@sloganWord5": {
+    "description": "To start to be."
+  },
+  "sloganWord6": "the",
+  "@sloganWord6": {
+    "description": "Definite article."
+  },
+  "sloganBadge2": "hero",
+  "@sloganBadge2": {
+    "description": "A person admired for their courage, achievements, or qualities."
+  },
+  "sloganWord7": "at",
+  "@sloganWord7": {
+    "description": "Expressing location or time."
+  },
+  "sloganWord8": "the",
+  "@sloganWord8": {
+    "description": "Definite article."
+  },
+  "sloganWord9": "table!",
+  "@sloganWord9": {
+    "description": "A piece of furniture with a flat top and legs, used for eating meals, writing, etc."
+  },
+  "getStarted": "Get started!",
+  "@getStarted": {
+    "description": "Button to start using the app."
+  }
+}
