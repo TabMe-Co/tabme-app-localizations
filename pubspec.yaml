@@ -1,6 +1,6 @@
 name: tabme_app_localizations
 description: "A package providing localizations to the Tabme mobile app."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/TabMe-Co/tabme-app-localizations
 
 environment:
